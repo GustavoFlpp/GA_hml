@@ -1,0 +1,19 @@
+<!doctype html>
+<html lang="pt-BR">
+  <head>
+    <meta charset="UTF-8" />
+    <link rel="icon" type="image/svg+xml" href="/favicon.svg" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Gestão de Ativos</title>
+  </head>
+  <body>
+    <div id="root"><p style="padding:24px;font-family:system-ui">Carregando Gestão de Ativos...</p></div>
+    <noscript>Ative o JavaScript no navegador para usar a aplicação.</noscript>
+    <script type="module">
+      import('/src/main.tsx').catch(() => {
+        document.getElementById('root').textContent =
+          'Não foi possível carregar a aplicação. Recarregue a página ou entre em contato com o suporte.';
+      });
+    </script>
+  </body>
+</html>

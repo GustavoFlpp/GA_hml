@@ -1,0 +1,47 @@
+# Python
+.venv/
+__pycache__/
+*.py[cod]
+
+# Environment
+.env
+.env.*
+!.env.example
+
+# Node
+node_modules/
+dist/
+
+# QR Codes gerados
+qr_codes/*.png
+
+# IDE
+.vscode/
+.idea/
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Testes, auditorias e arquivos locais
+.pytest_cache/
+.ruff_cache/
+.mypy_cache/
+.coverage
+htmlcov/
+coverage/
+*.tsbuildinfo
+*.log
+*.pem
+*.key
+*.p12
+*.pfx
+*.xlsx
+*.xls
+*.csv
+*.sqlite*
+*.db
+*.bak
+*.zip
+.pytest-tmp*/
+.audit-cache/

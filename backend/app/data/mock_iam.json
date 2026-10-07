@@ -1,0 +1,62 @@
+[
+  {
+    "chave": "U090001",
+    "nome_completo": "Marina Almeida",
+    "notebook": {"original": "UNBHZ1990001, NS 8KQ2M71, DELL LATITUDE 3450.", "hostname": "UNBHZ1990001", "serial": "8KQ2M71", "modelo": "DELL LATITUDE 3450"},
+    "smartphone": null, "tablet": null, "certificado_digital": null, "palm": null, "telefonia_fixa": null, "coletor_de_dados": null
+  },
+  {
+    "chave": "U090002",
+    "nome_completo": "Carlos Ferreira",
+    "notebook": {"original": "UNBHZ1990002, NS 5RT9X42, LENOVO THINKPAD E14 GEN 7.", "hostname": "UNBHZ1990002", "serial": "5RT9X42", "modelo": "LENOVO THINKPAD E14 GEN 7"},
+    "smartphone": "SAMSUNG GALAXY A55 5G", "tablet": null, "certificado_digital": null, "palm": null, "telefonia_fixa": null, "coletor_de_dados": null
+  },
+  {
+    "chave": "U090003",
+    "nome_completo": "Renata Martins",
+    "notebook": {"original": "UNIPA1990003, NS 9PL3C68.", "hostname": "UNIPA1990003", "serial": "9PL3C68", "modelo": null},
+    "smartphone": null, "tablet": null, "certificado_digital": "Certificado digital corporativo", "palm": null, "telefonia_fixa": null, "coletor_de_dados": null
+  },
+  {
+    "chave": "U090004",
+    "nome_completo": "Lucas Andrade",
+    "notebook": {"original": "UNIPA1990004, NS 7NM4D21.", "hostname": "UNIPA1990004", "serial": "7NM4D21", "modelo": ""},
+    "smartphone": null, "tablet": null, "certificado_digital": null, "palm": null, "telefonia_fixa": null, "coletor_de_dados": null
+  },
+  {
+    "chave": "U090005",
+    "nome_completo": "Fernanda Ribeiro",
+    "notebook": null,
+    "smartphone": "MOTOROLA EDGE 50 NEO", "tablet": null, "certificado_digital": null, "palm": null, "telefonia_fixa": null, "coletor_de_dados": null
+  },
+  {
+    "chave": "U090006",
+    "nome_completo": "Diego Nascimento",
+    "notebook": {"original": "RNGUA1990005, NS 6FV8R35, DELL LATITUDE 3440.", "hostname": "RNGUA1990005", "serial": "6FV8R35", "modelo": "DELL LATITUDE 3440"},
+    "smartphone": null, "tablet": "SAMSUNG GALAXY TAB ACTIVE 5", "certificado_digital": null, "palm": null, "telefonia_fixa": null, "coletor_de_dados": null
+  },
+  {
+    "chave": "U090007",
+    "nome_completo": "Patrícia Gomes",
+    "notebook": {"original": "QZ9, NS 4HS7P29, LENOVO THINKPAD L14 GEN 5.", "hostname": "QZ9", "serial": "4HS7P29", "modelo": "LENOVO THINKPAD L14 GEN 5"},
+    "smartphone": "SAMSUNG GALAXY S24 FE", "tablet": "SAMSUNG GALAXY TAB ACTIVE 5", "certificado_digital": "Certificado digital corporativo", "palm": null, "telefonia_fixa": null, "coletor_de_dados": null
+  },
+  {
+    "chave": "U090008",
+    "nome_completo": "Bruno Carvalho",
+    "notebook": {"original": "RTTAU1990006, NS 3JD6N84, DELL LATITUDE 5450.", "hostname": "RTTAU1990006", "serial": "3JD6N84", "modelo": "DELL LATITUDE 5450"},
+    "smartphone": null, "tablet": null, "certificado_digital": null, "palm": "ZEBRA TC22", "telefonia_fixa": null, "coletor_de_dados": null
+  },
+  {
+    "chave": "U090009",
+    "nome_completo": "Juliana Costa",
+    "notebook": {"original": "UNVIT1990007, NS 2LG5T93, HP PROBOOK 440 G11.", "hostname": "UNVIT1990007", "serial": "2LG5T93", "modelo": "HP PROBOOK 440 G11"},
+    "smartphone": null, "tablet": null, "certificado_digital": null, "palm": null, "telefonia_fixa": "Linha fixa corporativa", "coletor_de_dados": null
+  },
+  {
+    "chave": "U090010",
+    "nome_completo": "Rafael Moreira",
+    "notebook": {"original": "UNJDF1990008.", "hostname": "UNJDF1990008", "serial": null, "modelo": null},
+    "smartphone": null, "tablet": null, "certificado_digital": null, "palm": null, "telefonia_fixa": null, "coletor_de_dados": "ZEBRA TC21"
+  }
+]
